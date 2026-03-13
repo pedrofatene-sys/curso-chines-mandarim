@@ -3,6 +3,28 @@ const channels = [
     { id: 'm4AZcZKpf-s', name: 'Introdução ao Básico do Chinês Mandarim' },
     { id: 'z25rgMs4CCc', name: 'O Melhor Método para Aprender Ideogramas' },
     { id: '97bISPoMWhY', name: 'A Melhor Aula de Ideogramas Fonéticos' },
+    { id: 'ATG0O-1EnI0', name: 'Como São Formadas as Palavras?' },
+    { id: 'ODifoZhW87w', name: 'Aprendendo os 4 Tons Definitivamente' },
+    { id: '5mQHkDgmm-4', name: 'Como Treinar os Tons do Mandarim' },
+    { id: 'F3KNEnRL2YY', name: 'Os Sons de B, P, M e F no Mandarim' },
+    { id: '1gy2EeaEDd8', name: 'Como Pronunciar D, T, N e L no Mandarim' },
+    { id: 'CSSenE7I4Y4', name: 'Aprendendo as Consoantes: G, K, H, Y e W' },
+    { id: 'vkZHoN5ZhgA', name: 'Aprenda Como Pronunciar J, Q e X DE VEZ!' },
+    { id: 'Ervj9y1owkU', name: 'Fale Z, C e S do Jeito CERTO' },
+    { id: 'LY2BIXDFq9Y', name: 'Aprendendo os Sons de Zh, Ch, Sh e R' },
+    { id: 'MWgwXeSt7a0', name: 'As Monovogais do Chinês' },
+    { id: '0WpdeDfxlaw', name: 'Aprenda a falar AI, EI, UI, AO e IU' },
+    { id: 'mSSuqHYZ2P4', name: 'Como falar ie, üe e er corretamente' },
+    { id: 'rXwwYzQwVR0', name: 'As vogais nasais frontais' },
+    { id: '6D5xkcNQKhU', name: 'As vogais nasais do Chinês' },
+    { id: 'N7WS1UHVlcI', name: 'Vogais ditongos' },
+    { id: 'JJI53wzlEMY', name: 'Estruturas dos Ideogramas' },
+    { id: 'ZXf69YMc2a4', name: 'As Regras da Escrita Chinesa' },
+    { id: 'jQt4pceKXhI', name: 'Os traços básicos' },
+    { id: 'PYILVc9Vurk', name: '2º Grupo de Traços' },
+    { id: 'shUzIFO3iPY', name: '3º Grupo de Traços' },
+    { id: 'c6UvhxYjpPA', name: '4º Grupo de Traços' },
+    { id: 'j1_P4Ppp2mA', name: '5º Grupo de Traços' }
 ];
 
 // Estado atual
